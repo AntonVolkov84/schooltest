@@ -1,0 +1,83 @@
+export const dataEnglishTest = [
+  {
+    id: 1,
+    question: 'She __________in her kitchen now.',
+    answers: ['am cooking', 'are cooking', 'is cooking', 'cooks'],
+    rightAnswer: 'is cooking',
+    img: '../englishImg/first.jpg',
+  },
+  {
+    id: 2,
+    question: 'Do you hear? ____a baby_________right now?',
+    answers: ['am/crying', 'is / crying', 'are/ crying', 'crying'],
+    rightAnswer: 'is / crying',
+    img: '../englishImg/second.jpg',
+  },
+  {
+    id: 3,
+    question:
+      'Help your father. He _____________a loaf of bread at the moment.',
+    answers: ['is cutting', 'cutting', 'are cutting', 'cuts'],
+    rightAnswer: 'is cutting',
+    img: '../englishImg/third.jpg',
+  },
+  {
+    id: 4,
+    question: 'Look! This young lady____________vey well now!',
+    answers: ['dances', 'is dance', 'dance', 'is dancing'],
+    rightAnswer: 'is dancing',
+    img: '../englishImg/forth.jpg',
+  },
+  {
+    id: 5,
+    question: 'They __________wonderful pictures in the classroom right now.',
+    answers: ['am drawing', 'drawing', 'is drawing', 'are drawing'],
+    rightAnswer: 'are drawing',
+    img: '../englishImg/fifth.jpg',
+  },
+  {
+    id: 6,
+    question: 'What _____you __________about at the moment? Ah?',
+    answers: [
+      'dreaming /am',
+      'are / dreaming',
+      'am / dreaming',
+      'dreaming / are',
+    ],
+    rightAnswer: 'are / dreaming',
+    img: '../englishImg/06.jpg',
+  },
+  {
+    id: 7,
+    question: 'That little baby ___________milk now.',
+    answers: ['drinking', 'is drinking', 'drink', 'drinks'],
+    rightAnswer: 'are drawing',
+    img: '../englishImg/07.jpg',
+  },
+  {
+    id: 8,
+    question: 'drive+ing=?',
+    answers: [
+      'driveing',
+      'driving',
+      'закінчення не можна додавати',
+      'drieving',
+    ],
+    rightAnswer: 'driving',
+    img: '../englishImg/08.jpg',
+  },
+  {
+    id: 9,
+    question: 'His sister ____________________pizza now.',
+    answers: ['does not eating', 'is not eat', 'does not eat', 'is not eating'],
+    rightAnswer: 'is not eating',
+    img: '../englishImg/09.jpg',
+  },
+  {
+    id: 10,
+    question: 'These toy planes________________high now.',
+    answers: ['are flying', 'flying', 'am flying', 'is flying'],
+    rightAnswer: 'are flying',
+    img: '../englishImg/10.jpg',
+  },
+];
