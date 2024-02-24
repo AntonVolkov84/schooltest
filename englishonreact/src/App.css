@@ -155,6 +155,17 @@ nav a {
   transition: 1s;
   transform: rotateY(20deg);
 }
+.card.logica:hover {
+  transition: all 0.5s easy;
+  background-position: 80%;
+  transition: 1s;
+  transform: rotateY(-20deg);
+}
+.card.math:hover {
+  background-position: 80%;
+  transition: 1s all;
+  transform: scale(1.1);
+}
 .card__head__date__day {
   color: aliceblue;
   text-shadow: var(--textShadow);

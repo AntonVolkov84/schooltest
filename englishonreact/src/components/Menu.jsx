@@ -5,7 +5,7 @@ import '../i18next';
 
 const locales = {
   en: { title: 'English' },
-  ru: { title: 'Русский' },
+  ru: { title: 'Українська' },
 };
 
 function Menu() {

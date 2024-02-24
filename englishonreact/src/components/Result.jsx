@@ -19,7 +19,9 @@ function Result() {
       </h2>
       <h3 className="result__rang">Ранг:</h3>
       <h2 className="result__rangtext">
-        {disc > 55 ? 'Да ти Халк' : 'Ох і сопля'}
+        {disc > 55
+          ? 'Да ти Халк, на олімпіаду не маєшб бажання поїхати?'
+          : 'Ох і сопля, треба ще вчитися, бажаю успіхів!'}
       </h2>
       <Link className="btn__text" to="/">
         <button
